@@ -53,7 +53,7 @@ app.mount('gb-query');
 
 #### Configuration
 
-*   `customerId`: The only required configuration that must be passed
+*   `customerId`: Your GroupBy customerId. The only required configuration that must be passed
     to start a StoreFront instance
 
 The rest of the configuration can be found in the [generated API reference](https://groupby.github.io/storefront-core/modules/configuration.html).
